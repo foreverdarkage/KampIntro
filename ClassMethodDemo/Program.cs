@@ -1,13 +1,12 @@
 ﻿using System;
 
-namespace ValueandReferenceTypes
+namespace ClassMethodDemo
 {
     class Program
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
-            
+            Console.WriteLine("xyxy");
         }
     }
 }

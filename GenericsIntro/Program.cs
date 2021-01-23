@@ -1,12 +1,15 @@
 ﻿using System;
 
-namespace ValueandReferenceTypes
+namespace GenericsIntro
 {
     class Program
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            MyList<string> names = new MyList<string>();
+            names.Add("Another");
+
+
             
         }
     }
