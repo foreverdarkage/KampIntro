@@ -21,7 +21,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OOP1", "OOP1\OOP1.csproj", 
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Collections", "Collections\Collections.csproj", "{57C81BFC-D686-4971-9271-61607AFEC9FD}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GenericsIntro", "GenericsIntro\GenericsIntro.csproj", "{AFF80213-C821-42AB-A6F1-6B8E8C0ED24B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GenericsIntro", "GenericsIntro\GenericsIntro.csproj", "{AFF80213-C821-42AB-A6F1-6B8E8C0ED24B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyDictionary", "MyDictionary\MyDictionary.csproj", "{BF862347-0350-4BA6-B37C-9F104F4D4C32}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -69,6 +71,10 @@ Global
 		{AFF80213-C821-42AB-A6F1-6B8E8C0ED24B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{AFF80213-C821-42AB-A6F1-6B8E8C0ED24B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{AFF80213-C821-42AB-A6F1-6B8E8C0ED24B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BF862347-0350-4BA6-B37C-9F104F4D4C32}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BF862347-0350-4BA6-B37C-9F104F4D4C32}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BF862347-0350-4BA6-B37C-9F104F4D4C32}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BF862347-0350-4BA6-B37C-9F104F4D4C32}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
