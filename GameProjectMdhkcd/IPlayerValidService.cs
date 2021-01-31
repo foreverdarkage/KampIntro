@@ -6,6 +6,6 @@ namespace GameProjectMdhkcd
 {
     interface IPlayerValidService
     {
-        bool Valid(Player player);
+        bool Validate(Player player);
     }
 }

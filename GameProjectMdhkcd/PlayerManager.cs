@@ -13,7 +13,7 @@ namespace GameProjectMdhkcd
         }
         public void Add(Player player) 
         {
-            if (_playerValidService.Valid(player) == true) 
+            if (_playerValidService.Validate(player) == true) 
             {
                 Console.WriteLine(player.Username+" has been added.");
             }

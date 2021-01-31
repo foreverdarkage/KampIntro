@@ -5,8 +5,6 @@ VisualStudioVersion = 16.0.30804.86
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "KampIntro", "KampIntro\KampIntro.csproj", "{1C152438-A27B-4ED1-B716-9301D7CCAE92}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "döngüler", "döngüler\döngüler.csproj", "{203EC9AD-A583-4E05-951C-D24D86EB8ABA}"
-EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "classintro", "classintro\classintro.csproj", "{39B65DFE-2FBA-4B11-A385-6F4C4E9304BA}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "methods", "methods\methods.csproj", "{EA1A5B55-066A-41FF-8B76-83A2075937A0}"
@@ -29,7 +27,7 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OOP2", "OOP2\OOP2.csproj", 
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OOP3", "OOP3\OOP3.csproj", "{D1518035-A0CC-40ED-9672-2807B31DF79B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GameProjectMdhkcd", "GameProjectMdhkcd\GameProjectMdhkcd.csproj", "{328FA896-B133-49ED-813E-AE523B6A3999}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GameProjectMdhkcd", "GameProjectMdhkcd\GameProjectMdhkcd.csproj", "{328FA896-B133-49ED-813E-AE523B6A3999}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -41,10 +39,6 @@ Global
 		{1C152438-A27B-4ED1-B716-9301D7CCAE92}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1C152438-A27B-4ED1-B716-9301D7CCAE92}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1C152438-A27B-4ED1-B716-9301D7CCAE92}.Release|Any CPU.Build.0 = Release|Any CPU
-		{203EC9AD-A583-4E05-951C-D24D86EB8ABA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{203EC9AD-A583-4E05-951C-D24D86EB8ABA}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{203EC9AD-A583-4E05-951C-D24D86EB8ABA}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{203EC9AD-A583-4E05-951C-D24D86EB8ABA}.Release|Any CPU.Build.0 = Release|Any CPU
 		{39B65DFE-2FBA-4B11-A385-6F4C4E9304BA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{39B65DFE-2FBA-4B11-A385-6F4C4E9304BA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{39B65DFE-2FBA-4B11-A385-6F4C4E9304BA}.Release|Any CPU.ActiveCfg = Release|Any CPU
